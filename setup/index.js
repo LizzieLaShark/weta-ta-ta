@@ -8,6 +8,7 @@ $(document).ready(function() {
       $(".thorax1").click(function(){
       //e.preventDefault()
       console.log("thorax1 was clicked!")
+      $(".red").show()
     })
 
 

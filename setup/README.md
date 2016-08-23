@@ -19,6 +19,8 @@ npm install
 npm start
 ```
 
+budo . -d --serve bundle.js --live
+
 browse to <http://localhost:9966/>.
 
 ## test
